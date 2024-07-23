@@ -1,0 +1,28 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html{
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+
+
+body
+  header {
+    text-align: center;
+    font-size: 4rem;
+  }
+
+  h1{
+    text-align: center;
+    font-size: 2.5rem;
+ }
+ #special {
+  color: black;
+ }
+    label {
+      background-color: green;
+    }
+    
